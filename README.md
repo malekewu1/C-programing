@@ -1,8 +1,8 @@
 # C++programing
 Basic c_phitron
 
-Phograming hero couse
+Apna collage
 <br>
 author-abdul malek
 <br>
-start sept
+start Nov
