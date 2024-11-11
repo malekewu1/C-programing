@@ -1,4 +1,4 @@
-# C-programing
+# C++programing
 Basic c_phitron
 
 Phograming hero couse
